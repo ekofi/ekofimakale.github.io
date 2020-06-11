@@ -1,5 +1,5 @@
 ---
-title: "DeepMind, yapay zekaya diplomasi oyunu oynayatarak işbirliği yapmayı öğretecek"
+title: "DeepMind, yapay zekaya diplomasi oyunu oynayatarak iş birliği yapmayı öğretecek"
 date: 2020-06-11T16:15:00
 categories:
   - Yazılım
@@ -10,9 +10,9 @@ Kaynak: VentureBeat
 
 ![Kredi: DeepMind](https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?fit=578%2C289&strip=all) *Kredi: DeepMind*
 
-Google'ın üst şirketi Alphabet'in geliştirdiği makine öğrenme laboratuvarı DeepMind; Satranç, Go, Starcraft 2 gibi oyunların dışında, masa oyunu Diplomasi'nin takviye öğrenme araştırmalarında umut verici yeni bir yön motive edebileceğine inanıyor. [Arxiv.org](https://arxiv.org/pdf/2006.04635.pdf)'da yayınlanan bir makalede, araştırmacılar “tutarlı iyileştirmeler” sağlayıp oyunda yüksek puanlar alan bir AI sistemi oluşturuyor.
+Google'ın üst şirketi Alphabet'in geliştirdiği makine öğrenme laboratuvarı DeepMind; Satranç, Go, Starcraft 2 gibi oyunların dışında, masa oyunu Diplomasi'nin takviye öğrenme araştırmalarında umut verici olduğuna inanıyor. [Arxiv.org](https://arxiv.org/pdf/2006.04635.pdf)'da yayınlanan bir makalede, araştırmacılar “tutarlı iyileştirmeler” sağlayıp oyunda yüksek puanlar alan bir AI sistemi oluşturuyor.
 
-Diplomasi isimli oyun, içinde Türkiye'nin de bulunduğu, Avrupa düzeyinde birden fazla birimi kontrol ederek ve yedi oyuncuyu görevlendirerek etkileşim kurduran bir oyundur. Her turda, tüm oyuncular 34 bölgesinden birinde tüm birimlerini eşzamanlı olarak hareket ettirir ve bir birim, diğer birimlerin direncinin üstesinden gelmek için aynı veya başka bir oyuncunun sahip olduğu başka bir birimi destekleyebilir. 
+Diplomasi isimli oyun, içinde Türkiye'nin de bulunduğu, Avrupa düzeyinde birden fazla birimi kontrol ederek ve yedi oyuncuyu görevlendirerek etkileşim kurduran bir oyundur. Her turda, tüm oyuncular 34 bölgeden birinde tüm birimlerini eşzamanlı olarak hareket ettirir ve bir birim, diğer birimlerin direncinin üstesinden gelmek için aynı veya başka bir oyuncunun sahip olduğu başka bir birimi destekleyebilir. 
 
 İller tedarik merkezleridir ve birimler eyaleti işgal ederek tedarik merkezlerini ele geçirir. Daha fazla tedarik merkezine sahip olmak, bir oyuncunun daha fazla birim inşa etmesini sağlar ve oyun, tedarik merkezlerinin çoğuna sahip olarak kazanılır.
 
