@@ -1,5 +1,5 @@
 ---
-title: "Apple gizlilikte büyük değişikliğe gidiyor: Kullanıcıların reklam izlemeyi devre dışı bırakmasına ve uygulama izinleri hakkında daha fazla bilgi içermesine izin veriyor"
+title: "Apple gizlilikte büyük değişikliğe gidiyor: Kullanıcıların reklam izlemeyi devre dışı bırakmasına izin verecek"
 date: 2020-07-10T19:45:00
 categories:
   - Teknoloji
@@ -10,7 +10,7 @@ header:
 
 Apple’ın 2020 Dünya Çapında Geliştiriciler Konferansı’nın ana duyurusu, kullanıcıların kişisel gizlilik üzerinde eşi görülmemiş bir düzeyde kontrol elde edeceği ve iOS’ta mobil pazarlamayı tamamen artırabileceğiydi. Başlık öğesi, kullanıcıların benzersiz kimliklerini belirli uygulamalara görünmez hale getirerek reklam izlemeyi seçerek devre dışı bırakabilmeleriydi.
 
-Ancak diğer gelişmiş gizlilik özellikleri paketi tanıtıldı: Uygulama izinlerinin daha ayrıntılı dökümü, yeni gösterge ışıkları ve yeni Safari tarama özellikleri onların arasında.
+Ancak diğer gelişmiş gizlilik özellikleri paketi de tanıtıldı: Uygulama izinlerinin daha ayrıntılı dökümü, yeni gösterge ışıkları ve yeni Safari tarama özellikleri onların arasında.
 
 Apple reklamlarında yapılacak değişiklikler, Eylül ayında piyasaya sürülmesi beklenen yeni iOS 14 işletim sistemiyle gelecek.
 
@@ -38,6 +38,6 @@ Apple cihazlarından reklam izlemeyi etkin bir şekilde atma hamlesi, şirketin 
 
 Bununla birlikte, uygulama geliştiricilerinin sadece reklam yayınlamalarının ve reklam ağlarının ölmesine izin vermesi muhtemel olmadığından, bu hareket mutlaka iOS cihaz kullanıcıları için toplam net bir pozitif değildir. Bunun yerine, son kullanıcı için daha az uygun ve potansiyel olarak daha müdahaleci olan diğer şemalara geçmeleri muhtemeldir. Örneğin, daha fazla uygulama kullanıcıların geliştiriciyle hesap oluşturmasını ve kullanmadan önce oturum açmasını gerektirebilir. Bazı ücretsiz uygulamalar, reklam sunmaya çalışmak yerine ücretli bir modele geçmeyi tercih edebilir.
 
-> Yeni #iOS14, #Apple kullanıcılarının benzersiz kimliklerini uygulamalara görünmez yaparak reklam izlemeyi seçici olarak devre dışı bırakmasına olanak tanıyor. #privacy #respectdata <a href="https://twitter.com/intent/tweet?text=Yeni%20#iOS14,%20#Apple%20kullanıcılarının%20benzersiz%20kimliklerini%20uygulamalara%20görünmez%20yaparak%20reklam%20izlemeyi%20seçici%20olarak%20devre%20dışı%20bırakmasına%20olanak%20tanıyor.%20#privacy%20#respectdata" class="twitter-hashtag-button" data-show-count="false">Tweet için tıklayın</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> Yeni #iOS14, #Apple kullanıcılarının benzersiz kimliklerini uygulamalara görünmez yaparak reklam izlemeyi seçici olarak devre dışı bırakmasına olanak tanıyor. #privacy #respectdata <a href="https://twitter.com/intent/tweet?text=Yeni%20#iOS14,%20#Apple%20kullanıcılarının%20benzersiz%20kimliklerini%20uygulamalara%20görünmez%20yaparak%20reklam%20izlemeyi%20seçici%20olarak%20devre%20dışı%20bırakmasına%20olanak%20tanıyor.%20#privacy%20#respectdata%20https://makale.ekofi.science/teknoloji/apple-gizlilikte-buyuk-degisiklige-gidiyor/" class="twitter-hashtag-button" data-show-count="false">Tweet için tıklayın</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Arama devinin Apple'ın kullanıcı veri gizliliği hareketlerini (Chrome'daki üçüncü taraf çerezleri desteğini sonlandırma gibi) kopyaladığı biliniyor olduğundan, Google'ın yakın gelecekte bir noktada Android'i takip etme şansı var. gecikme süresi miktarı. Ancak bu hareket, Google'ın Apple'dan daha fazla pazarlama ve reklam izleme gelirine bağlı olduğu için daha az belirgindir.
