@@ -24,7 +24,7 @@ Artık Leonardo’nun “tankının” çizildiği gibi pratik olmadığını bi
 
 Kuş uçuşunu taklit eden insan gücüyle çalışan uçan makineler olan Ornithopters onun için bir hayranlık uyandırdı ve birçok güzel ve yenilikçi tasarım çizdi. Ancak, kuş uçuşu dediği şey şu anda tam olarak anlaşılamadı ve bir insanın bu tür cihazları çalıştırmak için asla gerekli gücü üretemeyeceğinin farkında değildi.
 
-![Leonardo da Vinci’nin bir helikopter tasarımı, 15. yüzyılın sonu veya 16. yüzyılın başı.](Leonardo da Vinci’nin bir helikopter tasarımı, 15. yüzyılın sonu veya 16. yüzyılın başı.) **Leonardo da Vinci’nin bir helikopter tasarımı, 15. yüzyılın sonu veya 16. yüzyılın başı.**
+![Leonardo da Vinci’nin bir helikopter tasarımı, 15. yüzyılın sonu veya 16. yüzyılın başı.](https://images.theconversation.com/files/271760/original/file-20190430-136784-1tjiviy.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=771&fit=crop&dpr=1) **Leonardo da Vinci’nin bir helikopter tasarımı, 15. yüzyılın sonu veya 16. yüzyılın başı.**
 
 Leonardo'nun tasarımlarının çoğu asla inşa edilmedi veya test edilmedi, ancak onları yeniden yaratmaya yönelik modern girişimler, bazı muhteşem başarısızlıklar da dahil olmak üzere karışık bir başarı ile karşılaştı. Fikirlerin pratik hale gelmesi dört yüzyıl sürecekti. Şüphesiz, kabul ettiğimiz modern yaşamın çoğunu tanıyacak ve büyüleyecekti.
 
@@ -42,7 +42,7 @@ Leonardo, Vitruvius’un çalışmalarını biliyordu - göbek merkezi olarak, u
 
 Matematikte, doğanın bazı desenlerinde - yaprakların spiral yerleşimi gibi görünen “Altın Oran” adı verilen bir sayı vardır. İlk olarak 1509'da Luca Pacoli tarafından Altın Oran kullanımının estetik açıdan hoş görüntülere yol açtığı kabul edildi. Da Vinci, doğru orantısallık sağlamada kritik olduğuna inanıyordu ve Mona Lisa'nın yapısını bununla desteklemekteydi.
 
-![Leonardo da Vinci - Vitruvius. Luc Viatour / https://Lucnix.be](https://images.theconversation.com/files/271747/original/file-20190430-136777-1dzrjgi.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=1025&fit=crop&dpr=1) **Leonardo da Vinci - Vitruvius. Luc Viatour / https://Lucnix.be**
+![Leonardo da Vinci - Vitruvius. Luc Viatour / https://Lucnix.be](https://images.theconversation.com/files/271747/original/file-20190430-136777-1dzrjgi.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=1025&fit=crop&dpr=1 =144x205) **Leonardo da Vinci - Vitruvius. Luc Viatour / https://Lucnix.be**
 
 Su
 -
@@ -72,7 +72,7 @@ Bu teknik Leonardo tarafından icat edilmedi, ancak o onu daha da geliştirdi ve
 
 Özellikle, Leonardo’nun portrelerinin çoğunda, bir renk bittiğinde ve diğeri başladığında söylemek neredeyse imkansız ve bu resimlerinin, bakıcılarının ağızları gibi bazı önemli kısımlarında belirgin. Örneğin, Avrupa Synchrotron Radyasyon Tesisi ile işbirliği içinde Laboratoire du Centre de Recherche et de Restauration des Musées de France, Leonardo'nun La Bella Principessa ( 2011'e kadar Martin Kemp tarafından Leonardo'ya atfedilen bir portre). Bu tabakaların her biri bir insan saçı kalınlığının yarısı kadardı. Mona Lisa'nın ağzının etrafındaki alan benzer bir ayrıntı seviyesine sahiptir.
 
-![La Bella Principessa (Son zamanlarda Martin Kemp tarafından Leonardo'ya atfedilmiştir ve 1490'lardan olduğu düşünülmekte)](https://images.theconversation.com/files/271754/original/file-20190430-136797-1mtmlci.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=1020&fit=crop&dpr=1) **La Bella Principessa (Son zamanlarda Martin Kemp tarafından Leonardo'ya atfedilmiştir ve 1490'lardan olduğu düşünülmekte)**
+![La Bella Principessa (Son zamanlarda Martin Kemp tarafından Leonardo'ya atfedilmiştir ve 1490'lardan olduğu düşünülmekte)](https://images.theconversation.com/files/271754/original/file-20190430-136797-1mtmlci.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=1020&fit=crop&dpr=1 =151x204) **La Bella Principessa (Son zamanlarda Martin Kemp tarafından Leonardo'ya atfedilmiştir ve 1490'lardan olduğu düşünülmekte)**
 
 Görsel yanılsamalar yaratan Leonardo'nun, bilim adamları arkasındaki mekanizmaları anlamadan önce gözler ve beyin yüzyıllar arasındaki anlaşmazlıklarla oynadığı dikkat çekicidir.
 
