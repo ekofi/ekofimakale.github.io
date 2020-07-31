@@ -11,8 +11,6 @@ header:
 Son zamanlarda, PostEra adı verilen bir girişim, “bu yıl içinde” COVID-19 tedavisi geliştirme niyetini açıkladı.
 
 Doğal olarak, duyuru biraz heyecan oluşturmuş olabilir. PostEra kesinlikle bu konuda ilk biyoteknoloji / yapay zeka girişimi olmasa da, PostEra'da özellikle heyecan verici bir şey var. PostEra’nın duyurusu farklıydı:
-- İlaç geliştirmede belirli bir darboğaz izole edildi.
-- Engelleyiciyi bir mühendislik zorluğu olarak çerçeveledi.
 - Zorluğa yeni bir makine öğrenme çözümü sundu.
 
 Lansman ilanlarını okuyunca, bu olayın sadece mühendislikle alakası olduğu zannediliyor, ancak yapay zeka bu olayın başka kısmında.
@@ -41,7 +39,7 @@ PostEra'nın yaptığı, önerilen bir molekül göz önüne alındığında, se
 
 ![PostEra internet sitesi](https://miro.medium.com/max/600/0*eeVLy4qDjlQefLeB.gif) **Kaynak: PostEra**
 
-Platformun nasıl çalıştığını anlamak için kimyasal sentez problemini daha soyut terimlere ayırmaya yardımcı olur:
+Nasıl çalışır derseniz, kimyasal sentez problemini daha soyut terimlere bölmeye yardımcı olur:
 - Bir dizi A nesnesini tek bir B nesnesine dönüştürmeniz gerekir.
 - Nesneleri önceden tanımlanmış bir dizi işlevle (kimyasal / fiziksel reaksiyonlar) birleştirerek dönüştürebilirsiniz.
 - Teorik olarak akla yatkın birçok fonksiyon zincirinin yaşayabilirliğini puanlamak için bir model oluşturmanız gerekir.
