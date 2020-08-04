@@ -4,9 +4,9 @@ date: 2020-07-31T14:38:00
 categories:
   - Yazılım
 header:
-  teaser: https://miro.medium.com/max/700/0*eKSjs6Nb5F36bO8W.png
+  teaser: https://makale.ekofi.science/assets/images/viral.webp
 ---
-![PostEra adı verilen bir girişim, “bu yıl içinde” COVID-19 tedavisi geliştirme niyetini açıkladı](https://miro.medium.com/max/700/0*eKSjs6Nb5F36bO8W.png)
+![PostEra adı verilen bir girişim, “bu yıl içinde” COVID-19 tedavisi geliştirme niyetini açıkladı](https://makale.ekofi.science/assets/images/viral.webp)
 
 Son zamanlarda, PostEra adı verilen bir girişim, “bu yıl içinde” COVID-19 tedavisi geliştirme niyetini açıkladı.
 
