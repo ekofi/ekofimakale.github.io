@@ -4,9 +4,9 @@ date: 2020-08-04T16:30:00
 categories:
   - Sanat
 header:
-  teaser: https://images.unsplash.com/photo-1536924940846-227afb31e2a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80
+  teaser: https://makale.ekofi.science/assets/images/painting.webp
 ---
-![Soyut sanat daha büyük fikirlere yönlendiriyor ve detaylardan uzaklaştırıyor](https://images.unsplash.com/photo-1536924940846-227afb31e2a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80)
+![Soyut sanat daha büyük fikirlere yönlendiriyor ve detaylardan uzaklaştırıyor](https://makale.ekofi.science/assets/images/painting.webp)
 
 Tanımlanamayacak bir resmin yakın hatlarına bakmak, soyut sanata bakmanın iyi yanlarından biridir. Yeni araştırmalar, soyut sanatın zihniyetimizi tam anlamıyla değiştirebilecek niteliklere sahip olduğunu öne sürüyor.
 
