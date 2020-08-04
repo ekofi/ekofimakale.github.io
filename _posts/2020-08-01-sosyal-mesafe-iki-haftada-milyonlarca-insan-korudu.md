@@ -4,9 +4,9 @@ date: 2020-08-01T14:38:00
 categories:
   - Sağlık
 header:
-  teaser: https://makale.ekofi.science/assets/images/social.webp
+  teaser: https://makale.ekofi.science/assets/images/socialp.webp
 ---
-![Dünya genelinde sosyal mesafe iki haftada 1.57 milyon insanı COVID-19'dan korudu](https://makale.ekofi.science/assets/images/social.webp)
+![Dünya genelinde sosyal mesafe iki haftada 1.57 milyon insanı COVID-19'dan korudu](https://makale.ekofi.science/assets/images/socialp.webp)
 
 Kaynak: [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236619)
 
