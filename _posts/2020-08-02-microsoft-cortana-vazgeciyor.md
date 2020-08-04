@@ -4,9 +4,9 @@ date: 2020-08-02T12:47:00
 categories:
   - Yazılım
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/b/b6/Cortana_%28%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%B0%29.jpeg
+  teaser: https://makale.ekofi.science/assets/images/cortana.webp
 ---
-![Microsoft, asistanı Cortana'dan vazgeçiyor - gelecek yıl Android desteğinden çekilecek](https://upload.wikimedia.org/wikipedia/commons/b/b6/Cortana_%28%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%B0%29.jpeg) **Kaynak: Wikimedia**
+![Microsoft, asistanı Cortana'dan vazgeçiyor - gelecek yıl Android desteğinden çekilecek](https://makale.ekofi.science/assets/images/cortana.webp) **Kaynak: Wikimedia**
 
 Google Asistan, Siri ve Alexa gibi asistanlar varken Microsoft'un Android'de bir ses asistanına sahip olması hiç kolay bir iş değildi ve şirket nihayet işten vazgeçti. 2021 başlarından itibaren, Cortana desteği Android, iOS ve birkaç küçük platformda sona erecek. Cortana birkaç ay önce birkaç ülkede aşamalı olarak kaldırılmıştı, ancak bu değişiklik küresel olacak.
 
