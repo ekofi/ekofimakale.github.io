@@ -4,9 +4,9 @@ date: 2020-08-03T12:49:00
 categories:
   - Yazılım
 header:
-  teaser: https://images.unsplash.com/photo-1592438893201-0e9e4d57d2cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  teaser: https://makale.ekofi.science/assets/images/mask.webp
 ---
-![Viral protein olan PLpro bloke edilirse SARS-CoV-2 virüs üretiminin engellendiği keşfedildi](https://images.unsplash.com/photo-1592438893201-0e9e4d57d2cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) **Biz de Covid-19 resmi paylaşmaktan bıktık :(**
+![Viral protein olan PLpro bloke edilirse SARS-CoV-2 virüs üretiminin engellendiği keşfedildi](https://makale.ekofi.science/assets/images/mask.webp) **Biz de Covid-19 resmi paylaşmaktan bıktık :(**
 
 Kaynak: [Nature](https://www.nature.com/articles/s41586-020-2601-5) 
 
