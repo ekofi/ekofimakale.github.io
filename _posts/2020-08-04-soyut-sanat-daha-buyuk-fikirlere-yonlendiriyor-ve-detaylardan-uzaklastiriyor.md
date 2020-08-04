@@ -4,9 +4,9 @@ date: 2020-08-04T16:30:00
 categories:
   - Sanat
 header:
-  teaser: https://makale.ekofi.science/assets/images/painting.webp
+  teaser: https://makale.ekofi.science/assets/images/paintingp.webp
 ---
-![Soyut sanat daha büyük fikirlere yönlendiriyor ve detaylardan uzaklaştırıyor](https://makale.ekofi.science/assets/images/painting.webp)
+![Soyut sanat daha büyük fikirlere yönlendiriyor ve detaylardan uzaklaştırıyor](https://makale.ekofi.science/assets/images/paintingp.webp)
 
 Tanımlanamayacak bir resmin yakın hatlarına bakmak, soyut sanata bakmanın iyi yanlarından biridir. Yeni araştırmalar, soyut sanatın zihniyetimizi tam anlamıyla değiştirebilecek niteliklere sahip olduğunu öne sürüyor.
 
