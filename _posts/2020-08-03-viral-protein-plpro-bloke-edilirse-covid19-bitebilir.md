@@ -2,7 +2,7 @@
 title: "Viral protein olan PLpro bloke edilirse COVID-19 virüs üretiminin engellendiği bulundu"
 date: 2020-08-03T12:49:00
 categories:
-  - Yazılım
+  - Sağlık
 header:
   teaser: https://makale.ekofi.science/assets/images/mask.webp
 ---
