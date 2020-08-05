@@ -2,7 +2,7 @@
 title: "Dikkatsizliğin neden olduğu bulundu"
 date: 2020-08-05T18:30:00
 categories:
-  - Sanat
+  - Bilim
 header:
   teaser: https://makale.ekofi.science/assets/images/visual_search_task.jpg
 ---
