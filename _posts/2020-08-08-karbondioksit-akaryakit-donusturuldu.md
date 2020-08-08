@@ -1,6 +1,6 @@
 ---
 title: "Karbondioksit akaryakıta dönüştürüldü - Maliyet düştü!"
-date: 2020-08-08T13:44:00
+date: 2020-08-08T14:30:00
 categories:
   - Bilim
 header:
