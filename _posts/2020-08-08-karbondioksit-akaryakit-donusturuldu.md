@@ -4,9 +4,9 @@ date: 2020-08-08T14:30:00
 categories:
   - Bilim
 header:
-  teaser: https://images.unsplash.com/photo-1498887960847-2a5e46312788?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  teaser: https://makale.ekofi.science/assets/images/liquidfuel.webp
 ---
-![Karbondioksit akaryakıta dönüştürüldü - Maliyet düştü!](https://images.unsplash.com/photo-1498887960847-2a5e46312788?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Karbondioksit akaryakıta dönüştürüldü - Maliyet düştü!](https://makale.ekofi.science/assets/images/liquidfuel.webp)
 
 **Karbondioksit ve suyu; çok yüksek enerji verimliliği, istenen nihai ürün için yüksek seçicilik ve düşük maliyetle etanole dönüştüren yeni bir elektrokatalizör geliştirildi.**
 
