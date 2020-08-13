@@ -8,8 +8,7 @@ header:
 ---
 ![Avustralyalıların 2000 yıl önce muz yetiştirdiği yer bulundu!](https://ichef.bbci.co.uk/news/660/cpsprodpb/10072/production/_113905656_ancientbananacultivationsite.png)**Mabuyag Adası'nda eski muz yetiştirme alanları bulundu. Kaynak: ANU**
 
-Mabuyag Adası'nda eski muz yetiştirme alanları bulundu
-Arkeologlar, bir zamanlar Avustralya'nın Yerli halkları tarafından yönetilen eski muz çiftlikleri bulduklarını söylüyorlar.
+Arkeologlar, bir zamanlar Avustralya'nın yerli halkları tarafından yönetilen eski muz çiftlikleri bulduklarını söylüyor.
 
 2,145 yıl öncesine dayanan siteler, Torres Boğazı'ndaki anakaranın kuzeyindeki küçük bir adada bulundu.
 
@@ -25,7 +24,7 @@ Baş araştırmacı Robert Williams, "Araştırmamız, Mabuyag'ın Goegmulgal ha
 
 Tarım sistemi o zamanlar patates, taro ve muz gibi temel gıdaları içeren yerel bölgesel beslenmeyi yansıtıyordu.
 
-Williams, "Yemek, Yerli kültürünün ve kimliğinin önemli bir parçası ve bu araştırma, bu uygulamaların yaşını ve zaman derinliğini gösteriyor."
+Williams, "Yemek, yerli kültürünün ve kimliğinin önemli bir parçası ve bu araştırma, bu uygulamaların yaşını ve zaman derinliğini gösteriyor."
 
 Tarihçiler, İngilizlerin Yerli tarım sistemlerine dair kanıtları reddettiğini, böylece toprağın yerleşmemiş ve boş olduğunu iddia ettiler.
 
