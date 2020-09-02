@@ -16,6 +16,8 @@ Yüz kalkanları başlangıçta simüle edilmiş bir öksürükten gelen damlac�
 
 Ekshalasyon valfli maskeler için ise, bir damlacık akışı valften filtre edilmeden geçer, bu da maskenin teoride potansiyel olarak bulaşıcı damlacıkların yayılmasını engellemek için çok az şey yapacağı anlamına gelir.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5npfIhdfm_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Buna karşılık, araştırmacılar daha önce, bazı pamuk yüz maskelerinin, simüle edilmiş bir öksürük sırasında damlacıkların yayılmasını sadece birkaç inç azalttığını göstermişti.
 
 Yazarlar, "Vvalfli yüz siperleri ve maskelerin, aerosol damlacıklarının yayılmasını sınırlamada **normal yüz maskeleri kadar etkili olmayabileceğini gösteriyor**" diye belirtti.
