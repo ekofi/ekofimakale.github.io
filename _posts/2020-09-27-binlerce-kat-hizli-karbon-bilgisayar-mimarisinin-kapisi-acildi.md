@@ -22,4 +22,4 @@ Diğer karbon bazlı malzemeler -genişletilmiş 2B grafen levhaları ve karbon 
 
 Fischer, "Metal tellerin gerçekten bir dönüm noktası olduğunu düşünüyoruz; ilk kez, harici doping gerektirmeden karbon bazlı malzemelerden ultra-dar metalik bir iletken yaratabiliyoruz".
 
-[ttps://science.sciencemag.org/content/369/6511/1597](Crommie, Fischer ve UC Berkeley ve meslektaşları bulgularını Science dergisinin 25 Eylül sayısında yayınladılar.)
+[Crommie, Fischer ve UC Berkeley ve meslektaşları bulgularını Science dergisinin 25 Eylül sayısında yayınladılar.](https://science.sciencemag.org/content/369/6511/1597)
