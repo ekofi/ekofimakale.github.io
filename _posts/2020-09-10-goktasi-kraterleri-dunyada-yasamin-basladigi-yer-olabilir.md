@@ -2,7 +2,7 @@
 title: "Göktaşı kraterleri Dünya'da yaşamın başladığı yer olabilir!"
 date: 2020-09-10T19:07:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://images.unsplash.com/photo-1534518443443-2d602409bc89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
 ---
