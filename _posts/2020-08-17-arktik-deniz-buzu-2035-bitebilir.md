@@ -2,7 +2,7 @@
 title: "Arktik deniz buzu 2035 yılına kadar tamamen BİTEBİLİR!"
 date: 2020-08-17T20:10:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://images.unsplash.com/photo-1514125067037-8e669dd37638?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 ---
