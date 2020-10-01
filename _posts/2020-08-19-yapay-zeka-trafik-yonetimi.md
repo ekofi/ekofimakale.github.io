@@ -2,7 +2,7 @@
 title: "Yapay zeka tabanlı trafik yönetimi ile ışıklarda bekleme azalıyor!"
 date: 2020-08-19T16:57:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://images.unsplash.com/photo-1541324754946-e8c0e87d849a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 ---
