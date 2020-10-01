@@ -2,7 +2,7 @@
 title: "Yeni araştırma: Yavaş ve derin nefes almak ağrıyı azaltıyor!"
 date: 2020-05-17T20:45:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://makale.ekofi.science/assets/images/photo-1487418669520-305e7e2c7b09.jpg
 ---
