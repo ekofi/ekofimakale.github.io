@@ -2,7 +2,7 @@
 title: "Pas ve ışık kaynağı kullanarak 25 kat daha fazla hidrojen yakıtı güvenli ve verimli bir şekilde üretildi"
 date: 2020-03-09T22:11:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://www.popularmechanics.co.za/wp-content/uploads/2020/03/matt-artz-GcyJgspBefE-unsplash-719x431.jpg
 ---
