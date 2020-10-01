@@ -2,7 +2,7 @@
 title: "Leonardo Da Vinci'nin zamanın önünde gittiğini gösteren dört yol"
 date: 2020-07-28T22:30:00
 categories:
-  - Kültür
+  - Kultur
 header:
   teaser: https://images.unsplash.com/photo-1568022858251-cab30daeb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80
 ---
