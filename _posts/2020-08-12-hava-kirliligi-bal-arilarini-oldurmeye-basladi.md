@@ -2,7 +2,7 @@
 title: "Hava kirliliği Hindistan'daki bal arılarını öldürmeye başladı!"
 date: 2020-08-12T16:30:00
 categories:
-  - Dünya
+  - Dunya
 header:
   teaser: https://images.unsplash.com/photo-1576347819574-903b60efcd69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1491&q=80
 ---
