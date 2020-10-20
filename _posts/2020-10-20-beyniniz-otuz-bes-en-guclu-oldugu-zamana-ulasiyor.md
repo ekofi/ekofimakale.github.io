@@ -1,6 +1,6 @@
 ---
 title: "Beyniniz 35. yaşınızda en güçlü olduğu zamana ulaşıyor!"
-date: 2020-10-20T16:30:00
+date: 2020-10-20T16:20:00
 categories:
   - Noroloji
 header:
