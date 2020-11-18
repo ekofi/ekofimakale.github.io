@@ -1,6 +1,6 @@
 ---
 title: "İnsan beyni evrenin yapısına benziyor mu?"
-date: 2020-11-18T119:19:00
+date: 2020-11-18T19:20:00
 categories:
   - Tip
 header:
