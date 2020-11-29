@@ -1,11 +1,10 @@
 ---
-published: false
+title: "Meditasyon egoyu arttırıyor mu?"
 date: 2020-11-29T21:45:00.000Z
 categories:
   - Psikoloji
 header:
-  teaser: >-
-    https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1393&q=80
+  teaser: https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1393&q=80
 ---
 ![Meditasyon egoyu arttırıyor mu?](https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1393&q=80)
 
