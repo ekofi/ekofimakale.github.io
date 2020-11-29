@@ -33,11 +33,9 @@ Yazarlar ayrıca manevi üstünlükle ilişkili olacağını varsaydıkları ü�
 **İkinci ölçek “doğaüstü aşırı güven”** dir ve gerçek dışı alandaki kendilerine atfedilen yetenekleri kapsar. 
 Örnek ifadeler şunları içerir: "Başkalarına uzaktan pozitif enerji gönderebilirim", "Ölen insanlarla iletişim kurabilirim" ve "Düşüncelerimle çevremdeki dünyayı etkileyebilirim."
 
-![Doğaüstü aşırı güven](https://images.unsplash.com/photo-1426243665764-abe8f66163dc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1328&q=80)
-
 **Üçüncü ölçek, "öz-değerin manevi olumsallığı"**, bir kişinin benlik saygısının ne kadar maneviyatından kaynaklandığını ölçer. Örnek ifadeler arasında "Daha fazla manevi bilgelik edindiğimde kendime olan inancım artar" ve "Yeni manevi içgörüler edindiğimde, bu benim öz değerimi artırır".
 
-![Manevi bilgelik](https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1393&q=80)
+![Doğaüstü aşırı güven](https://images.unsplash.com/photo-1426243665764-abe8f66163dc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1328&q=80)
 
 Aşağıda açıklanan üç çalışmada, araştırmacılar manevi üstünlük ölçeğinin geçerli bir araç olduğunu buldular. Dahası, diğer üç ölçek ile önemli ölçüde ilişkilidir. Ayrıca narsisizm, benlik saygısı ve diğer psikolojik değişkenlerle önemli ölçüde ilişkilidir. Son olarak, aynı zamanda, çeşitli derecelerde, çeşitli ruhsal eğitim biçimleriyle de ilişkilidir.
 
