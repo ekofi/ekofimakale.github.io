@@ -1,5 +1,10 @@
 ---
-published: false
+title: "Stanford bunu da yaptı: Işık + ses ile su altındaki nesneler görülecek!"
+date: 2020-12-03T20:20:00.000Z
+categories:
+  - Teknoloji
+header:
+  teaser: https://static.bitscientist.com/100/conversions/engineers-combine-light-and-sound-to-see-underwater-main-lg.jpg?v=1606773290
 ---
 ![Stanford bunu da yaptı: Işık + ses ile su altındaki nesneler görülecek!](https://static.bitscientist.com/100/conversions/engineers-combine-light-and-sound-to-see-underwater-main-lg.jpg?v=1606773290)
 
