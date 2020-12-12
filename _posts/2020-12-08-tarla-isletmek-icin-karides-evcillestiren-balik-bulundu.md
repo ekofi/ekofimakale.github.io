@@ -16,6 +16,27 @@ Tarlalarını işletmek için minik karidesleri evcilleştiren balıklar bulundu
 
 Yeni çalışmada, başka bir hayvanı evcilleştiren insan olmayan bir omurgalıya ilk örnek olarak görünen şeyi açıklanıyor.
 
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://science.us4.list-manage.com/subscribe/post?u=c9d443d4bbcca0fd46869db68&amp;id=5ccdf030ac" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Güncel haberleri kaçırmayın!</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="e-mail adresiniz" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c9d443d4bbcca0fd46869db68_5ccdf030ac" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Abone olun" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
 Balık yetiştiriciliği karidesleri evcilleştirir
 -
 Orta Amerika'da Belize kıyılarındaki mercan resiflerinde, uzun yüzgeçli damsel balıkları alg çiftliklerini oluşturur, yönetir ve besler. Çiftliklerinin üzerinde düzenli olarak yüzen mysid karides adı verilen küçük kabuklu "sürüleri" olduğunu fark edildi.
