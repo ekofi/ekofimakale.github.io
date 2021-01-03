@@ -1,21 +1,10 @@
 ---
 title: "Yaklaşık 250 devlet kurumu ve büyük firmaların kullandığı SolarWinds hacklendi!"
-date: 2020-01-03T18:48:00.000Z
+date: 2020-01-03T19:05:00.000Z
 header:
   teaser: https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80
 ---
 ![Yaklaşık 250 devlet kurumu ve büyük firmaların kullandığı SolarWinds hacklendi!](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80)
-
-<div class="notice--info">
-  <h4 class="no_toc">Mutlu ve sağlıklı yıllar!</h4>
-  
-<p>Ekofi olarak herkese sağlıklı ve mutlu yıllar diliyoruz, sizin de yakınlarınızın yılbaşını online olarak kutlayabilmeniz için <b>KutlaKutla</b> isimli bir proje oluşturduk, hızlıca oluşturup paylaşabilirsiniz :)</p>
-
-<ul>
-  <li><a href="https://kutlakutla.ekofi.science">https://kutlakutla.ekofi.science</a></li>
-</ul>
-![KutlaKutla - Güzel anları kutlama platformunuz](https://www.dl.dropboxusercontent.com/s/al8qc22s148m09y/kutlakutla.ekofi.science.png?dl=0)
-</div>
 
 New York Times'ın bildirdiğine göre, ABD devlet kurumlarını ve özel şirketleri hedef alan Rusya bağlantılı SolarWinds saldırısı, yetkililerin ilk farkına vardığından daha kötü.
 
