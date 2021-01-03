@@ -1,10 +1,10 @@
 ---
-title: "Dünya devleri zorda: Yaklaşık 250 devlet kurumu ve firmanın kullandığı SolarWinds hacklendi"
-date: 2020-01-03T18:22:00.000Z
+title: "Yaklaşık 250 devlet kurumu ve büyük firmaların kullandığı SolarWinds hacklendi!"
+date: 2020-01-03T18:48:00.000Z
 header:
   teaser: https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80
 ---
-![Ticketmaster, Rival'ın sistemini yasadışı bir şekilde hacklediği 10 milyon dolar ödeyecek](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80)
+![Yaklaşık 250 devlet kurumu ve büyük firmaların kullandığı SolarWinds hacklendi!](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80)
 
 <div class="notice--info">
   <h4 class="no_toc">Mutlu ve sağlıklı yıllar!</h4>
