@@ -1,6 +1,6 @@
 ---
 title: "Yaklaşık 250 devlet kurumu ve büyük firmaların kullandığı SolarWinds hacklendi!"
-date: 2020-01-03T19:05:00.000Z
+date: 2021-01-04T22:05:00.000Z
 header:
   teaser: https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80
 ---
