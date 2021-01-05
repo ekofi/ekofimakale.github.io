@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Wechsler IQ Testi Çöz"
+last_modified_at: 2021-01-05T17:50:00.000Z
 header:
   teaser: https://images.unsplash.com/photo-1566202479808-75d9a4520102?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80
 ---
