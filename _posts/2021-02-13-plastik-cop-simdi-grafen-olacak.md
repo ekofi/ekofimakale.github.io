@@ -1,0 +1,20 @@
+---
+title: "Plastik çöp artık ultra güçlü grafene dönüştürülebilir!"
+date: 2021-02-13T17:24:00.000Z
+header:
+  teaser: https://images.unsplash.com/photo-1606901302392-ca613ab6abb7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+---
+![Plastik çöp artık ultra güçlü grafene dönüştürülebilir!](https://images.unsplash.com/photo-1606901302392-ca613ab6abb7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+
+Marketteki ambalajlar, giysilerimizden gelen tüyler, plastik alışveriş poşetleri - plastikler ve mikro plastikler her yerde ve kaybolmuyorlar. Aslında, çöplüklerde ayrışmaları yüzlerce yıl alacak. Bu ayrışma sürecini hızlandırmak için, Rice Üniversitesi'nden bilim insanları bu atılmış plastikleri toksik olmayan, doğal olarak oluşan malzemelere dönüştürüyorlar. Bunu, plastik malzemeleri çok yüksek sıcaklıklara hızla ısıtmak için "flaş Joule ısıtma" adı verilen yeni geliştirilmiş bir teknik kullanarak yapıyorlar.
+
+Şu anda, farklı sonuçlarla yaygın olarak kullanılan birkaç plastik geri dönüşüm tekniği var. Örneğin, plastik torbalar plastik atık akışına büyük katkı sağlıyor. Daha da şaşırtıcı bir şekilde, her plastik torba ortalama olarak bir saatten daha az kullanılır. Şu anda, plastik poşetleri geri dönüştürmenin en yaygın yolu, bunları inşaat malzemeleri için kullanılabilecek kompozit kereste veya küçük peletler halinde sıkıştırmaktır. Bu, tek kullanımlık plastiği yeniden kullanmanın mükemmel bir yolu olsa da, bu plastik yine de biyolojik olarak parçalanamaz.
+
+Bunun aksine, "flaş Joule ısıtma" yöntemi plastiği oldukça geri dönüştürülebilir ve çok kararlı olan grafene dönüştürür. Grafenin kendisi inanılmaz derecede güçlü ve esnektir - çelikten 200 kat daha güçlüdür. Grafen, genellikle kurşun kalem olarak bulunan ve doğal olarak oluşan karbon bazlı bir mineral olan tek katmanlı bir grafit formudur. Tipik olarak, grafit çıkarılır ve daha sonra katmanlarını ayırarak grafen oluşturmak için mekanik olarak işlenir. Ancak grafit elde etmek pahalı olabilir. Doğrudan plastik atıklardan grafen üreterek, üretim maliyetini düşürmek mümkündür. Daha da önemlisi, üretim maliyetinin düşürülmesi, grafen kullanımının akademik araştırma dışında geniş bir şekilde uygulanmasına yol açabilir - daha düşük üretim maliyetleri ile grafen, mukavemeti ve performansı artırmak için betona, kauçuğa veya asfalta eklenebilir. Bunun gibi yenilikler muhtemelen grafeni ticari kullanım için çok daha yaygın hale getirecek.
+
+![Bir yonca oluşumunda düzenlenmiş altıgen şekilli grafenin mikroskop resmi](https://images.takeshape.io/fd194db7-7b25-4b5a-8cc7-da7f31fab475/dev/d148c0d6-6171-40ea-a38c-c3275bacaf5f/14660583146_38d9d6ea67_o.png?auto=compress%2Cformat)
+
+Grafen üretim maliyetlerini azaltmanın yanı sıra, grafen üretmek için plastiğin kullanılması da önemli çevresel etkilere sahiptir. İlk olarak, yüksek düzeyde kirlilik grafit madenciliğinden kaynaklanmaktadır. Doğrudan plastikten grafen üretmek, grafit tedarik zincirini bozabilir, böylece madencilik faaliyetlerini ve madenciliğin neden olduğu kirliliği azaltabilir. İkincisi, bu grafen üretim tekniği, plastik atıkları azaltarak çöp sahalarını dönüştürme kapasitesine sahiptir. Grafenin biyolojik olarak parçalanabilirliği hala araştırılırken, araştırmalar grafenin birkaç ay içinde parçalanabileceğini öne sürüyor ki bu, diğer yaygın plastiklerden çok daha hızlı. Nihayetinde, doğrudan laboratuar grafen üretimi, büyük bir çevresel etki yaratma potansiyeline sahiptir.
+
+Flash joule ısıtma aslında plastik malzemelerden büyük bir akım geçirmeyi içeren oldukça basit bir işlemdir. Joule ısıtma, yaygın olarak kullanılan bir ısıtma tekniğidir. Ütü kullandıysanız, Joule ısıtmanın çalışırken görmüşsünüzdür. Akım, demir metali gibi iletken bir malzemeden geçtiğinde, hızla ısı üretir. Flash joule ısıtma, zamanla ısı oluşturmak yerine, malzemeden yoğun bir ısı patlamasına neden olan büyük bir başlangıç akımının geçmesi anlamına gelir. Plastik atık durumunda, doğru koşullarda, bu yoğun ısı aslında kimyasal dönüşümlere neden olabilir.
+
