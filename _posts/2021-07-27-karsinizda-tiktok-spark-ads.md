@@ -8,11 +8,11 @@ header:
 
 Nedir bu Spark Ads?
 -
-TikTok, markaların, kendileri bir şey oluşturmak zorunda kalmadan bir ilişkilendirme desteği elde etmek için, hatta bir içerik oluşturucuyu görevlendirmek zorunda kalmadan, teklifleriyle uyumlu, halihazırda trend olan organik içeriğe sponsor olmalarını sağlayan yeni bir reklam seçeneği başlattı.
+TikTok, markaların, bir içerik oluşturucuyu görevlendirmek zorunda kalmadan, teklifleriyle uyumlu, halihazırda trend olan organik içeriğe sponsor olmalarını sağlayan yeni bir reklam seçeneği başlattı.
 
 **İşte nasıl çalıştığı:**
 
-TikTok'un yeni 'Kıvılcım' yani 'Spark' reklam seçeneği sayesinde markalar, kampanyalarına uygun olabilecek mevcut organik videoları belirleyebilir - örneğin, bir güzellik etkileyicisinin ürününüzü organik kliplerinde sergilemesi gibi.
+TikTok'un yeni 'Kıvılcım' yani 'Spark' reklam seçeneği sayesinde markalar, kampanyalarına uygun olabilecek mevcut organik videoları belirleyebilir - örneğin, bir güzellik influencerinin ürününüzü organik kliplerinde sergilemesi gibi.
 
 Markalar daha sonra bu içerik oluşturuculara ulaşabilir ve kliplerini ücretli kampanyalar için yeniden kullanabilir.
 
