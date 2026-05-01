@@ -103,4 +103,26 @@ $(document).ready(function() {
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+
+  var showSubstackPopup = function() {
+    var $overlay = $("#substack-popup-overlay");
+    if ($overlay.length === 0) {
+      return;
+    }
+    $overlay.fadeIn(200, function() {
+      $(this).css("display", "flex");
+    });
+  };
+
+  setTimeout(showSubstackPopup, 5000);
+
+  $("#substack-popup-close, #substack-popup-overlay").on("click", function(event) {
+    if (event.target.id === "substack-popup-overlay" || event.target.id === "substack-popup-close") {
+      $("#substack-popup-overlay").fadeOut(200);
+    }
+  });
+
+  $("#substack-popup").on("click", function(event) {
+    event.stopPropagation();
+  });
 });
